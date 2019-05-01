@@ -1,0 +1,11 @@
+src/serviceWorker.js
+src/index.js
+scripts/test.js
+scripts/start.js
+scripts/build.js
+config/webpackDevServer.config.js
+config/webpack.config.js
+config/paths.js
+config/jest/fileTransform.js
+config/jest/cssTransform.js
+config/env.js
