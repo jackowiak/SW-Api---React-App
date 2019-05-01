@@ -171,6 +171,13 @@
       "species": "Droid",
       "gender": "n/a",
       "homeworld": ""
+    },
+    {
+      "name": "Not",
+      "species": "Zabrak",
+      "gender": "female",
+      "homeworld": "",
+      "id": 20
     }
   ]
 }
