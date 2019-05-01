@@ -9,3 +9,4 @@ config/paths.js
 config/jest/fileTransform.js
 config/jest/cssTransform.js
 config/env.js
+src/App.test.js
